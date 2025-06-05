@@ -1,6 +1,7 @@
 ## tt-microapp
-字节跳动小程序 sdk
-字节跳动服务端API官方文档 [点击前往](https://microapp.bytedance.com/dev/cn/mini-app/develop/server/server-api-introduction)
+- 字节跳动抖音小程序 sdk
+- 字节跳动服务端API官方文档 [点击前往](https://microapp.bytedance.com/dev/cn/mini-app/develop/server/server-api-introduction)
+- fork [qbhy/tt-microapp](https://github.com/qbhy/tt-microapp)的分支，修改了一些代码
 
 * API 齐全
 * 丰富合理的注释

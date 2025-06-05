@@ -1,10 +1,12 @@
 {
     "name": "olivefm/tt-microapp",
     "description": "字节跳动抖音小程序sdk",
+    "keywords": ["douyin", "tt", "字节跳动", "抖音小程序", "laravel"],
+    "homepage": "https://github.com/yeesuu/laravel-oss",
     "license": "MIT",
     "authors": [
         {
-            "name": "olive",
+            "name": "yeesuu",
             "email": "yeesuu@gmail.com"
         }
     ],
