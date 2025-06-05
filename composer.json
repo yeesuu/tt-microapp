@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "hanson/foundation-sdk": "^5.0",
+        "olivefm/foundation-sdk": "^v1.0.0",
         "ext-json": "*",
         "php": ">=8.2",
         "ext-openssl": "*",
