@@ -8,12 +8,10 @@
 * 支持 `composer` 安装
 * 支持 laravel/lumen、hyperf 框架
 
-## 相关资源
-* QQ小程序php-sdk https://github.com/qbhy/qq-microapp
 
 ## 安装 - install
 ```bash
-$ composer require 96qbhy/tt-microapp
+$ composer require olivefm/tt-microapp
 ```
 
 ## 使用 - usage
@@ -88,7 +86,3 @@ var_dump($app->payment->create_refund([
 var_dump($app->payment->signPay($pay_param)); // 担保支付的请求签名算法，一般不需要直接调用
 var_dump($app->payment->signCallback($callback_param)); // 担保支付的回调签名算法，用于在支付回调、退款回调、分账回调进行数据校验的
 ```
-
-php吹水交流群请添加: 873213948
-https://github.com/qbhy/tt-microapp
-96qbhy@gmail.com

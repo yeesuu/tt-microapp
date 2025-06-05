@@ -1,22 +1,21 @@
 {
-    "name": "96qbhy/tt-microapp",
-    "description": "字节跳动小程序sdk",
+    "name": "olive/tt-microapp",
+    "description": "字节跳动抖音小程序sdk",
     "license": "MIT",
     "authors": [
         {
-            "name": "qbhy",
-            "email": "96qbhy@gmail.com"
+            "name": "olive",
+            "email": "yeesuu@gmail.com"
         }
     ],
     "require": {
-        "hanson/foundation-sdk": "^4.0",
+        "hanson/foundation-sdk": "^5.0",
         "ext-json": "*",
-        "php": ">=7.1",
+        "php": ">=8.2",
         "ext-openssl": "*",
         "ext-curl": "*"
     },
     "require-dev": {
-        "hyperf/utils": "^1.1"
     },
     "suggest": {
         "ext-redis": "*",
